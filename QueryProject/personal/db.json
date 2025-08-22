@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Julia"
+    },
+    {
+      "id": "3",
+      "name": "Can Boz"
+    },
+    {
+      "id": "82f1",
+      "name": "Can"
+    },
+    {
+      "id": "5ae1",
+      "name": "Can"
+    },
+    {
+      "id": "6948",
+      "name": "Lynne Crona"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Eskişehir",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Amasya",
+      "id": 13
+    },
+    {
+      "id": "4439",
+      "userId": "3",
+      "title": "Incredible Concrete Tuna"
+    },
+    {
+      "id": "a289",
+      "userId": "82f1",
+      "title": "Small Cotton Chips"
+    },
+    {
+      "id": "7783",
+      "userId": "1",
+      "title": "Incredible Bamboo Table"
+    }
+  ],
+  "photos": [
+    {
+      "id": "a7e2",
+      "albumId": 15,
+      "url": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/79.jpg"
+    },
+    {
+      "id": "c31d",
+      "albumId": 15,
+      "url": "https://avatars.githubusercontent.com/u/44946355"
+    },
+    {
+      "id": "1f4f",
+      "albumId": 15,
+      "url": "https://avatars.githubusercontent.com/u/88199257"
+    },
+    {
+      "id": "77d1",
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/xczogmp/150/150"
+    }
+  ]
+}
